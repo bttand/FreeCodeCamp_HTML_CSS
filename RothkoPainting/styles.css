@@ -24,7 +24,8 @@
     border-radius: 9px;
     /*Cria um arredondamento na borda*/
     transform: rotate(-0.6deg);
-    /*Altera o elemento de forma bidimensional, neste caso o rotacionando*/
+        /*rotate: rotaciona o elemento baseado em deg*/
+    /*Altera o elemento de forma bidimensional*/
 }
 
 .two {
